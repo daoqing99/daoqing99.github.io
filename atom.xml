@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>为学</title>
+  <subtitle>天下事有难易乎？为之，则难者亦易矣；不为，则易者亦难矣。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://toking.top/"/>
+  <updated>2017-04-24T14:42:47.680Z</updated>
+  <id>http://toking.top/</id>
+  
+  <author>
+    <name>ToKing</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一些实用的接口demo</title>
+    <link href="http://toking.top/2017/04/24/%E4%B8%80%E4%BA%9B%E5%AE%9E%E7%94%A8%E7%9A%84%E6%8E%A5%E5%8F%A3demo/"/>
+    <id>http://toking.top/2017/04/24/一些实用的接口demo/</id>
+    <published>2017-04-24T13:29:34.000Z</published>
+    <updated>2017-04-24T14:42:47.680Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;工作之余，为了练手，网上找了些接口写的玩。利用vue渲染的。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://om1gg1n7c.bkt.clouddn.com/html/adress1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;三级级联菜单&lt;
+    
+    </summary>
+    
+      <category term="案例" scheme="http://toking.top/categories/%E6%A1%88%E4%BE%8B/"/>
+    
+    
+      <category term="接口" scheme="http://toking.top/tags/%E6%8E%A5%E5%8F%A3/"/>
+    
+      <category term="vue" scheme="http://toking.top/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>移动端布局px自动转换为rem插件介绍</title>
+    <link href="http://toking.top/2017/04/03/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%B8%83%E5%B1%80px%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2%E4%B8%BArem%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://toking.top/2017/04/03/移动端布局px自动转换为rem插件介绍/</id>
+    <published>2017-04-03T02:02:06.000Z</published>
+    <updated>2017-04-03T04:46:54.387Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;rem 的官方定义『The font size of the root element.』，即以根节点的字体大小作为基准值进行长度计算。一般认为网页中的根节点是 html 元素，所以采用的方式也是通过设置 html 元素的 font-size 来做屏幕适配。&lt;br&gt;这里介绍
+    
+    </summary>
+    
+      <category term="工具" scheme="http://toking.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="rem" scheme="http://toking.top/tags/rem/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何将自己的项目文件上传到github仓库</title>
+    <link href="http://toking.top/2017/03/25/%E5%A6%82%E4%BD%95%E5%B0%86%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%88%B0github%E4%BB%93%E5%BA%93/"/>
+    <id>http://toking.top/2017/03/25/如何将自己的项目文件上传到github仓库/</id>
+    <published>2017-03-25T07:19:38.000Z</published>
+    <updated>2017-04-03T01:58:39.395Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;接上篇文章&lt;code&gt;SSH&lt;/code&gt;安装好后就可以把自己的项目文件上传到github了，例如：test。&lt;/p&gt;
+&lt;h3 id=&quot;一&quot;&gt;&lt;a href=&quot;#一&quot; class=&quot;headerlink&quot; title=&quot;一&quot;&gt;&lt;/a&gt;一&lt;/h3&gt;&lt;p&gt;首先需要的github
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://toking.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="github" scheme="http://toking.top/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目文件上传github之前，SSH的生成</title>
+    <link href="http://toking.top/2017/03/25/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0github%E4%B9%8B%E5%89%8D%EF%BC%8CSSH%E7%9A%84%E7%94%9F%E6%88%90/"/>
+    <id>http://toking.top/2017/03/25/项目文件上传github之前，SSH的生成/</id>
+    <published>2017-03-25T06:07:27.000Z</published>
+    <updated>2017-04-03T02:26:23.507Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;配置SSH&quot;&gt;&lt;a href=&quot;#配置SSH&quot; class=&quot;headerlink&quot; title=&quot;配置SSH&quot;&gt;&lt;/a&gt;配置SSH&lt;/h4&gt;&lt;p&gt;为什么GitHub需要SSH Key呢？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;因为GitHub需要识别出你推送的
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://toking.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="SSH" scheme="http://toking.top/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何把javascript毫秒转换为想要的日期格式</title>
+    <link href="http://toking.top/2017/03/25/%E5%A6%82%E4%BD%95%E6%8A%8Ajavascript%E6%AF%AB%E7%A7%92%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%83%B3%E8%A6%81%E7%9A%84%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F/"/>
+    <id>http://toking.top/2017/03/25/如何把javascript毫秒转换为想要的日期格式/</id>
+    <published>2017-03-24T22:36:47.000Z</published>
+    <updated>2017-04-03T02:25:51.380Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://toking.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="javascript" scheme="http://toking.top/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nodejs中npm常用命令</title>
+    <link href="http://toking.top/2017/03/24/nodejs%E4%B8%ADnpm%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://toking.top/2017/03/24/nodejs中npm常用命令/</id>
+    <published>2017-03-23T16:24:39.000Z</published>
+    <updated>2017-04-03T02:23:45.584Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://toking.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="npm" scheme="http://toking.top/tags/npm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html如何自定义设置属性及获取属性值</title>
+    <link href="http://toking.top/2017/03/16/html%E5%A6%82%E4%BD%95%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AE%BE%E7%BD%AE%E5%B1%9E%E6%80%A7%E5%8F%8A%E8%8E%B7%E5%8F%96%E5%B1%9E%E6%80%A7%E5%80%BC/"/>
+    <id>http://toking.top/2017/03/16/html如何自定义设置属性及获取属性值/</id>
+    <published>2017-03-16T15:25:56.000Z</published>
+    <updated>2017-04-03T02:01:24.531Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div
+    
+    </summary>
+    
+      <category term="案例" scheme="http://toking.top/categories/%E6%A1%88%E4%BE%8B/"/>
+    
+    
+      <category term="自定义html属性" scheme="http://toking.top/tags/%E8%87%AA%E5%AE%9A%E4%B9%89html%E5%B1%9E%E6%80%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rem布局设置根标签字体大小</title>
+    <link href="http://toking.top/2017/03/16/rem%E5%B8%83%E5%B1%80%E8%AE%BE%E7%BD%AE%E6%A0%B9%E6%A0%87%E7%AD%BE%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F/"/>
+    <id>http://toking.top/2017/03/16/rem布局设置根标签字体大小/</id>
+    <published>2017-03-16T14:01:04.000Z</published>
+    <updated>2017-04-03T02:24:48.746Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://toking.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="rem布局" scheme="http://toking.top/tags/rem%E5%B8%83%E5%B1%80/"/>
+    
+  </entry>
+  
+</feed>
