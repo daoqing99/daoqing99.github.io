@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://toking.top/"/>
-  <updated>2017-04-24T14:42:47.680Z</updated>
+  <updated>2017-04-25T13:04:34.293Z</updated>
   <id>http://toking.top/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常用数组的操作方法</title>
+    <link href="http://toking.top/2017/04/25/%E5%B8%B8%E7%94%A8%E6%95%B0%E7%BB%84%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/"/>
+    <id>http://toking.top/2017/04/25/常用数组的操作方法/</id>
+    <published>2017-04-25T12:59:29.000Z</published>
+    <updated>2017-04-25T13:04:34.293Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;工作中用到的数组的操作方法总结，做个笔记以后要利用，已经封装的可以直接套用；后续碰到再补充。&lt;br&gt;&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/
+    
+    </summary>
+    
+      <category term="笔记" scheme="http://toking.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="数组" scheme="http://toking.top/tags/%E6%95%B0%E7%BB%84/"/>
+    
+  </entry>
   
   <entry>
     <title>一些实用的接口demo</title>
